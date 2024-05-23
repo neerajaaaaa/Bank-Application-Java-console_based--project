@@ -9,7 +9,7 @@ public class BankInfo
     private String acc_type;  
     private long balance;  
     
-    //testing the app
+    
     public String getName() 
     {
 		return name;
