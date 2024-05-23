@@ -7,6 +7,7 @@ public class Main
 	{
 		Operation operlation = new Operation();
 		operlation.bankinfo();
+		//sout
 	}
 
 }
